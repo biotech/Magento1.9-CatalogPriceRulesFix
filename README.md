@@ -1,8 +1,6 @@
 # Magento1.9-CatalogPriceRulesFix
 Catalog price rules core bug in Magento CE 1.9.1 and EE 1.14.1.0 (Array to string conversion error and incorrect price rules behavior)
 
-Catalog price rules core bug in Magento CE 1.9.1 and EE 1.14.1.0 (Array to string conversion error and incorrect price rules behavior)
-
 Short summary of the problem – if you have Magento catalog price rules with multiple select attributes in conditions 
 or ONE OF price rules conditions with comma separated values - on latest Magento versions – 
 you can have Array to string conversion error during you apply rules or incorrect rules behavior.
