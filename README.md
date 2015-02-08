@@ -9,3 +9,5 @@ Issue reports:
 - http://magento.stackexchange.com/questions/36195/catalog-price-rule-containing-several-sku-s-doesnt-work
 - http://www.magentocommerce.com/bug-tracking/issue/index/id/278	
 - http://www.magentocommerce.com/bug-tracking/issue/index/id/544 	
+
+More details and tests - http://firebearstudio.com/blog/catalog-price-rules-core-bug-in-magento-ce-1-9-1-and-ee-1-14-1-0-array-to-string-conversion-error-and-incorrect-price-rules-behavior.html 
